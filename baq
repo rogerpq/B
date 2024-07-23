@@ -1,0 +1,5 @@
+git clone https://github.com/rogerpq/M LSCALE
+cd LSCALE
+pip3 install --upgrade pip
+pip install -U -r requirements.txt
+python3 main.py
