@@ -11,7 +11,7 @@
             "description": "كـــود جلســة تيــرمكــس - الكـود الكبيـر مـن حـافظـة حسـابـك او مـن بــوت〔 RepthonStringSessionBot@ 〕..",
             "required": true
         },
-        "APP_TOKEN": {
+        "BOT_TOKEN": {
             "description": "تـــوكـــن البـــوت المســاعـد الخــاص بـك - مـن بـوت فـاذر〔 Botfather@ 〕..",
             "required": true,
             "value":""
